@@ -82,8 +82,11 @@ Note: Due to file size limitations, the dataset is not included in this reposito
 
 
 Mumbai has hosted the highest number of IPL matches.
+
 Caught is the most common dismissal type.
+
 Virat Kohli is among the leading run scorers.
+
 IPL scoring trends have increased significantly in recent seasons.
 
 
@@ -93,9 +96,13 @@ IPL scoring trends have increased significantly in recent seasons.
 
 
 Top Wicket Takers Analysis
+
 Team Performance Dashboard
+
 Toss Decision Analysis
+
 Match Result Analysis
+
 Advanced DAX Measures
 
 
