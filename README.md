@@ -3,19 +3,28 @@
 
 📌 Project Overview
 
+
+
 This project is an interactive IPL Analytics Dashboard developed using Power BI to analyze Indian Premier League (IPL) data from 2008 to 2025. The dashboard provides insights into player performance, match statistics, dismissal patterns, venue analysis, and season-wise trends.
 
 The goal of this project is to transform raw IPL data into meaningful visual insights that help users explore historical IPL performance through interactive filters and KPIs.
 
 
+
 🛠️ Tools & Technologies
 
 
+
 Power BI
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Data Cleaning & Transformation
+
 Data Visualization
+
 
 
 📊 Key Performance Indicators (KPIs)
@@ -28,6 +37,7 @@ Total Sixes
 Total Batters
 Total Bowlers
 Total Wickets
+
 
 
 📈 Dashboard Features
@@ -56,7 +66,9 @@ City Filter
 These filters allow users to dynamically explore the data.
 
 
+
 📂 Dataset
+
 
 
 The dataset contains IPL match and ball-by-ball data covering multiple seasons.
@@ -64,7 +76,9 @@ The dataset contains IPL match and ball-by-ball data covering multiple seasons.
 Note: Due to file size limitations, the dataset is not included in this repository.
 
 
+
 🎯 Key Insights
+
 
 
 Mumbai has hosted the highest number of IPL matches.
@@ -73,7 +87,11 @@ Virat Kohli is among the leading run scorers.
 IPL scoring trends have increased significantly in recent seasons.
 
 
+
 🚀 Future Enhancements
+
+
+
 Top Wicket Takers Analysis
 Team Performance Dashboard
 Toss Decision Analysis
@@ -82,4 +100,6 @@ Advanced DAX Measures
 
 
 📷 Dashboard Preview:
-()
+
+
+(https://github.com/Ananyajain1506/IPL_Analytics_Dashboard_Power-BI/blob/main/IPL%20Dashboard.png)
